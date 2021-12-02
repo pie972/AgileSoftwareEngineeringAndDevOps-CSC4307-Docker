@@ -5,7 +5,7 @@ Docker is an open-source containerization platform. It enables developers to pac
 After installing Docker, we will start playing with it by running some command lines on terminal. <br />
 * run the hello world container <br /><br />
 ![](Screenshots/Picture1.png) <br /><br />
-* Docker images <br /><br />
+** Docker images
 - Display existing images <br /><br />
 ![](Screenshots/Picture2.png) <br /><br />
 - Create ubuntu container <br /><br />
