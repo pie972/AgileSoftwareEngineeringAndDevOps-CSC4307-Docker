@@ -13,7 +13,7 @@ After installing Docker, we will start playing with it by running some command l
 •	ubuntu container running in the terminal vs the Docker PS command to look at the running images on terminal <br /><br />
 ![](Screenshots/Picture4.png) <br />
 ![](Screenshots/Picture5.png) <br /><br />
-•	Enter “ls” command to see the file we have just created <br <br />
+•	Enter “ls” command to see the file we have just created <br /><br />
 ![](Screenshots/Picture6.png) <br /><br />
 •	looking at running an image to make a container <br /><br />
 ![](Screenshots/Picture7.png) <br /><br />
