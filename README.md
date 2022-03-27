@@ -1,8 +1,8 @@
-# AgileSoftwareEngineeringAndDevOps-CSC4307-Docker # <br />
-## Docker Definition ## <br /><br />
+# AgileSoftwareEngineeringAndDevOps-CSC4307-Docker #
+## Docker Definition ##
 Docker is an open-source containerization platform. It enables developers to package applications into containers—standardized executable components combining application source code with the operating system (OS) libraries and dependencies required to run that code in any environment. <br /> <br />
 
-## Docker Client ## <br /><br />
+## Docker Client ## 
 After installing Docker, we will start playing with it by running some command lines on terminal. <br />
 * run the hello world container <br /><br />
 ![](Screenshots/Picture1.png) <br /><br />
@@ -29,7 +29,7 @@ After installing Docker, we will start playing with it by running some command l
 ![](Screenshots/Picture13.png) <br />
 ![](Screenshots/Picture14.png) <br /><br />
 
-## Conclusion ## <br /><br />
+## Conclusion ## 
 Docker images are typically very small, which facilitates rapid delivery and reduces the time to deploy new application containers. Docker reduces effort and risk of problems with application dependencies. <br />
 
 ## WHEN to Contribute? ##
